@@ -1,0 +1,43 @@
+CLOUDS CAKE - THE DIWALI EDIT 2026 WEBSITE
+==========================================
+
+WHAT'S IN THIS FOLDER
+- index.html ............ the website (uses the images/ folder)
+- images/ ............... the 5 hamper photos
+- wix-embed.html ........ the SAME website in ONE file (photos built in) - use this for Wix
+- HOW-TO-PUBLISH-ON-WIX.txt
+
+Every "Order" button opens WhatsApp to +91 81690 27350 with the hamper name
+already typed. The "Build your order" form adds the quantity, date, name and notes.
+On a phone it opens the WhatsApp app; on a computer it opens WhatsApp Web/Desktop.
+
+Wix does not host uploaded HTML files or zip folders as pages, so use one of
+these two ways:
+
+----------------------------------------------------------------
+OPTION A - Paste into Wix (no other website needed)
+----------------------------------------------------------------
+1. Open wix-embed.html in Notepad (Windows) or TextEdit (Mac, choose
+   Format > Make Plain Text). Select all (Ctrl/Cmd + A) and copy.
+2. In the Wix Editor, add a new blank page (e.g. "Diwali Hampers").
+3. Click Add (+) > Embed Code > Embed HTML.
+4. Click "Enter Code", choose "Code", paste, and click Update.
+5. Stretch the element to full page width and drag its height to fill the page.
+   The site scrolls inside this box. Do the same in the Wix mobile view.
+6. Publish.
+If Wix says the code is too long, use Option B.
+
+----------------------------------------------------------------
+OPTION B - Free hosting + link from Wix (best full-screen result)
+----------------------------------------------------------------
+1. Unzip this folder.
+2. Go to https://app.netlify.com/drop and drag the unzipped folder onto the page.
+   (A free account keeps the site online permanently.)
+3. You get a link like https://your-name.netlify.app - rename it in Site settings.
+4. In Wix, either:
+   - add a menu item / button that links to that address, or
+   - Add (+) > Embed Code > Embed HTML > "Website address" and paste the link.
+
+EDITING LATER
+- Phone number, Instagram and texts are plain text inside index.html.
+  The WhatsApp number appears as 918169027350 (country code + number).
